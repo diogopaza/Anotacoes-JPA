@@ -4,7 +4,7 @@
 
 Anotações:<br/>
 
-@PrePersist: executa método anotado antes da entidade ser persistida;<br/>
+<strong>@PrePersist</strong>: executa método anotado antes da entidade ser persistida;<br/>
 @PostPersist: executa método anotado após entidade ser persistida;<br/>
 @PreRemove:executa método anotado antes da entidade ser removida;<br/>
 @PostRemove: executa método anotado após entidade ser removida;<br/>
