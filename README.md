@@ -5,9 +5,9 @@
 Anotações:<br/>
 
 <strong>@PrePersist</strong>: executa método anotado antes da entidade ser persistida;<br/>
-@PostPersist: executa método anotado após entidade ser persistida;<br/>
-@PreRemove:executa método anotado antes da entidade ser removida;<br/>
-@PostRemove: executa método anotado após entidade ser removida;<br/>
-@PreUpdate: executa método anotado antes da entidade ser atualizada;<br/>
-@PostUpdate:executa método anotado após entidade ser persistida;<br/>
-@PostLoad: executa método anotado após entidade carregada(consultada);<br/>
+<strong>@PostPersist</strong>: executa método anotado após entidade ser persistida;<br/>
+<strong>@PreRemove</strong>:executa método anotado antes da entidade ser removida;<br/>
+<strong>@PostRemove</strong>: executa método anotado após entidade ser removida;<br/>
+<strong>@PreUpdate</strong>: executa método anotado antes da entidade ser atualizada;<br/>
+<strong>@PostUpdate</strong>:executa método anotado após entidade ser persistida;<br/>
+<strong>@PostLoad</strong>: executa método anotado após entidade carregada(consultada);<br/>
